@@ -1,0 +1,28 @@
+.styling {
+    width: 300px;
+    height: 40px;
+    font-size: 20px;
+    margin-left: 30px;
+    margin-top: 30px;
+    
+    border-radius: 5px;
+    box-shadow: 4px 5px 10px grey;
+}
+.styling:hover{
+    background-color: purple;
+    color: white; 
+}
+.design {
+    margin: 30px;
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+    background-color: #58355e;
+    color: #d6ffb7;
+    border-radius: 5px;
+    box-shadow: 6px 8px 9px grey;
+}
+input::placeholder{
+    color: #d6ffb7;
+    padding-left:5px;
+}
